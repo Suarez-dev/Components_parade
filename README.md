@@ -7,4 +7,4 @@ Son componentes creados para un proyecto de una tienda.
 Puse en practica maquetado con
 html, css grid y flexbox.
 
-https://Suarez-dev.github.io/Components_parade/
+https://polyxein.github.io/Components_parade/
